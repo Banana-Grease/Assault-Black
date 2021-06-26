@@ -28,7 +28,6 @@
 
 
 **ERROR messages:**
-
 when the hack errors, it will give a description.
 
 Message 1:
