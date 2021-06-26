@@ -1,7 +1,7 @@
 # Assault-Black
 A multi-cheat being developed for a game called 'AssaultCube'
 
-How to use:
+**How to use:**
 
 1. download the AssaultBlack.exe file or compile the source code for yourself if it's avaliable
 2. run the game after downloading it from the webiste.
