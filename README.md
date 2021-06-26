@@ -22,7 +22,7 @@
 
 anything, I don't really care. I would like if you gave me credit when uploading it though.
 I don't really care if you change it / alter it.
-I also don't care about just uploading it somwhere else.
+I also don't care about just uploading it somwhere else. But again, I would like credit.
 
 
 **REQUIREMENTS:**
