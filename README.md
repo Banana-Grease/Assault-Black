@@ -18,6 +18,12 @@
 
 **Game website:** https://assault.cubers.net/
 
+**What can you do with it**
+
+anything, I don't really care. I would like if you gave me credit when uploading it though.
+I don't really care if you change it / alter it.
+I also don't care about just uploading it somwhere else.
+
 
 **REQUIREMENTS:**
  - Windows 7+ PC
@@ -34,12 +40,14 @@ when the hack errors, it will give a description.
 
 "Error, Failed to find game window. Please start the game if not already started!
 Press any key to retry!"
+
 To fix this error, either the hack is fucked or the game 'AssaultCube' can not be found.
 when starting the hack, make sure that the game is already open and responding
 
 **Message 2;**
 
 "Error, Failed to grab the process ID"
+
 To fix this error, well. you can't really.
 make sure that the game is open and that the game is running with administrator permissions.
 this error may happen if the PC the hack is running on is a restricted form of windows
@@ -47,6 +55,7 @@ this error may happen if the PC the hack is running on is a restricted form of w
 **Message 3;**
 
 "Error, Failed to grab the HANDLE to the process / game"
+
 Same as the last Error, this one can't really be fixed.
 It means that windows is not giving Assault-Black permission to get a handle,
 or leverage over the game.
