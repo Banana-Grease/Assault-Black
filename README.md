@@ -16,10 +16,10 @@ A multi-cheat being developed for a game called 'AssaultCube'
 
 
 
-Game website: https://assault.cubers.net/
+**Game website:** https://assault.cubers.net/
 
 
-REQUIREMENTS:
+**REQUIREMENTS:**
  - Windows 7+ PC
  - Preferably administrator access
  - Enough specs to run AssaultCube
@@ -27,7 +27,7 @@ REQUIREMENTS:
  - AssaultCube installed
 
 
-ERROR messages:
+**ERROR messages:**
 when the hack errors, it will give a description.
 
 Message 1:
