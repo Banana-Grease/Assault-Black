@@ -30,20 +30,23 @@
 **ERROR messages:**
 when the hack errors, it will give a description.
 
-Message 1;
-  Error, Failed to find game window. Please start the game if not already started!
-  Press any key to retry!
+**Message 1;**
+
+"Error, Failed to find game window. Please start the game if not already started!
+Press any key to retry!"
 To fix this error, either the hack is fucked or the game 'AssaultCube' can not be found.
 when starting the hack, make sure that the game is already open and responding
 
-Message 2;
-  Error, Failed to grab the process ID
+**Message 2;**
+
+"Error, Failed to grab the process ID"
 To fix this error, well. you can't really.
 make sure that the game is open and that the game is running with administrator permissions.
 this error may happen if the PC the hack is running on is a restricted form of windows
 
-Message 3;
-  Error, Failed to grab the HANDLE to the process / game
+**Message 3;**
+
+"Error, Failed to grab the HANDLE to the process / game"
 Same as the last Error, this one can't really be fixed.
 It means that windows is not giving Assault-Black permission to get a handle,
 or leverage over the game.
