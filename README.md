@@ -1,5 +1,5 @@
 # Assault-Black
-A multi-cheat being developed for a game called 'AssaultCube'
+*A multi-cheat being developed for a game called 'AssaultCube'*
 
 **How to use:**
 
